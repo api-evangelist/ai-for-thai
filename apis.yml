@@ -1,0 +1,32 @@
+aid: ai-for-thai
+name: AI For Thai
+description: "Free Various Thai AI API"
+url: https://aiforthai.in.th/index.php
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Machine Learning"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Machine Learning
+  - Public APIs
+apis:
+  - name: AI For Thai
+    description: "Free Various Thai AI API"
+    humanURL: https://aiforthai.in.th/index.php
+    baseURL: https://aiforthai.in.th/index.php
+    tags:
+      - Machine Learning
+    properties:
+      - type: Documentation
+        url: https://aiforthai.in.th/index.php
+common:
+  - type: Website
+    url: https://aiforthai.in.th/index.php
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
