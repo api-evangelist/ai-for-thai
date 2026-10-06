@@ -27,7 +27,7 @@ description: "Free Various Thai AI API"
 url: https://aiforthai.in.th/index.php
 specificationVersion: '0.23'
 created: '2026-05-28'
-modified: '2026-05-28'
+modified: '2026-10-06'
 x-source: public-apis/public-apis
 x-category: "Machine Learning"
 x-tier: 3
@@ -52,6 +52,8 @@ apis:
       - type: Documentation
         url: https://aiforthai.in.th/index.php
 common:
+  - url: https://aiforthai.in.th/blog/
+    type: Blog
   - type: DomainSecurity
     url: security/ai-for-thai-domain-security.yml
   - type: Website
