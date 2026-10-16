@@ -14,7 +14,7 @@ edges:
     registered_name: th.in.legaltech/thai-legal
     register_id: th.in.legaltech/thai-legal
     detected_by: sweep-agent-tools.py
-    detected: '2026-10-14'
+    detected: '2026-10-15'
   mcp_registry:
     servers:
     - th.in.legaltech/thai-legal
